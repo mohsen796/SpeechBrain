@@ -1,2 +1,4 @@
 .venv
 pretrained_models/*
+
+.DS_Store
